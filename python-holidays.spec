@@ -17,3 +17,4 @@ Open World Holidays Framework.
 
 %files
 %{py_sitedir}/*
+%{_bindir}/holidays-ics
